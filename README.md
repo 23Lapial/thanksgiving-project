@@ -1,0 +1,2 @@
+# thanksgiving-project
+for school
